@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+   
+    <title>Document</title>
+    <link rel="stylesheet" href="activity1css.css">
+</head>
+
+
+<body>
+    <h2>Welcome to Lovely Professional University</h2>
+    
+    <p>To Explore our programs, admissions, and research oppurtunities available in LPU Campus.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     
  <title>Document</title>
     <link rel="stylesheet" href="form.css">
