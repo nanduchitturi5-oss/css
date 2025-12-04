@@ -1,3 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+ <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <div class="container"></div>
+    <form action=" " method="post">
+        <fieldset>
+        <legend> <u><h3><b>Personal Information</b></h3></u></legend>
+        <label for="USERNAME">USERNAME:</label></br>
+        <input type="text" id="USERNAME" name="USERNAME" rows="1" required></br>
+
+        <label for="EMAIL">EMAIL:</label></br>
+        <input type="email" id="EMAIL" name="EMAIL" rows="1" required></br>
+
+        <label for="PASSWORD">PASSWORD:</label></br>
+        <input type="password" id="PASSWORD" name="PASSWORD" rows="1" required></br>
+        <label for="gender">GENDER:</label></br>
+
+        <input type="radio" name="GENDER" value="male"> Male</br>
+        <input type="radio" name="GENDER" value="female"> Female</br>
+        <label for="city">CITY:</label></br>
+        <select id="city" name="city"></br>
+            <option value="Mohali">Mohali</option>
+            <option value="Chandigarh">Chandigarh</option>
+            <option value="Jalandhar">Jalandhar</option>
+        </select><br>
+        <label for="ADDRESS">Address:</label></br>
+        <textarea id="ADDRESS" name="ADDRESS" rows="3" cols="30">
+
+
+
+        </textarea><button type="submit">Submit</button><br>
+       <b>For more info visit</b> <a href="https://www.lpu.in/">LPU</a><br>
+
+         </fieldset>
+    </form>
+
+</body>
+</html>
 h2 {
     color: rgb(84, 71, 122);
     
