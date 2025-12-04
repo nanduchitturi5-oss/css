@@ -1,3 +1,15 @@
+h2 {
+    color: rgb(84, 71, 122);
+    
+    background-color: chartreuse;
+}
+p {
+    color: rgb(21, 5, 69);
+    
+    font-size: 16px;
+    line-height: 1.5;
+    
+}
 body{
     background-color: rgb(113, 199, 171);
     text-align: center;
